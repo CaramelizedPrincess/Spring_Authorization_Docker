@@ -1,0 +1,8 @@
+ru\netology\springauthorization\controller\AuthorizationController.class
+ru\netology\springauthorization\SpringAuthorizationApplication.class
+ru\netology\springauthorization\exeption\UnauthorizedUser.class
+ru\netology\springauthorization\repository\UserRepository.class
+ru\netology\springauthorization\service\AuthorizationService.class
+ru\netology\springauthorization\repository\Authorities.class
+ru\netology\springauthorization\handler\ExceptionHandler.class
+ru\netology\springauthorization\exeption\InvalidCredentials.class
