@@ -1,7 +1,7 @@
 version: "3"
 services:
   app:
-    build: "./"
+    build: ./
     image: 'myapp'
     ports:
         - "8080"
